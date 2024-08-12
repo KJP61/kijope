@@ -9,4 +9,4 @@ tags:
 
 # My second blog post
 
-Today i also learned about Git Lens and Git Kraken
+Today i also learned about GitLens and GitKraken
